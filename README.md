@@ -1,4 +1,4 @@
-# simple_example_for_image_classification_app
+# simple_example_for_image_classification_app_pneumonia detection
 
 https://user-images.githubusercontent.com/101331596/180661995-e937150a-89fb-4df9-9016-5663afde5d43.mp4
 
